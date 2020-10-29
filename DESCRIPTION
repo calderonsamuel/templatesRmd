@@ -1,0 +1,13 @@
+Package: templatesRmd
+Type: Package
+Title: Rmarkdown templates for Samuel Calderon
+Version: 0.1.0
+Authors@R:
+    person("Samuel", "Calderon Serrano", 
+    email = "samuel.calderon@uarm.pe", 
+    role = c("aut", "cre"))
+Description: Contiene plantillas para usaar en diferentes tipos de documentos 
+    realizados con Rmarkdown.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true

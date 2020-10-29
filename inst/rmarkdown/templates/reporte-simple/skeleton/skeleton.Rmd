@@ -1,0 +1,40 @@
+ ---
+output: 
+  html_document:
+    df_print: kable
+    toc: true
+params: 
+  set_title: "My Title!"
+title: "`r params$set_title`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+## Preguntas a responder
+
+
+
+## Paquetes
+
+```{r}
+library(tidyverse)
+library(echarts4r)
+```
+
+## Data
+
+
+
+## Metodología
+
+
+
+## Resultados
+
+
