@@ -21,14 +21,13 @@ knitr::opts_chunk$set(
 
 
 
-# Paquetes
+# Paquetes a usar en el análisis
 
 ```{r}
-library(tidyverse)
-library(echarts4r)
+
 ```
 
-# Data
+# Conjuntos de datos a usar en el análisis
 
 
 
@@ -37,5 +36,9 @@ library(echarts4r)
 
 
 # Resultados
+
+
+
+# Conclusiones
 
 
