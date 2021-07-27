@@ -38,7 +38,7 @@ knitr::opts_chunk$set(
 
 # Respuestas
 
-## 1 
+## Respuesta a pregunta 1 
 
 <!-- Ingresar texto -->
 
@@ -46,7 +46,7 @@ knitr::opts_chunk$set(
 
 ```
 
-## 2 
+## Respuesta a pregunta 2 
 
 <!-- Ingresar texto -->
 
@@ -54,7 +54,7 @@ knitr::opts_chunk$set(
 
 ```
 
-## 3 
+## Respuesta a pregunta 3 
 
 <!-- Ingresar texto -->
 
