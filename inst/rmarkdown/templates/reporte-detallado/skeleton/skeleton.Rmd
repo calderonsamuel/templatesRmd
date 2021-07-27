@@ -1,0 +1,59 @@
+---
+title: "Untitled"
+output: 
+  html_document:
+    df_print: kable
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+# Introducción
+
+<!-- Descripción del tema central del trabajo (¿qué pregunta quiero responder?¿qué preguntas necesito responder previamente?) -->
+
+# Metodología
+
+## Paquetes a usar en el análisis
+
+<!-- Descripción del aporte de cada paquete usado (¿qué funciones/operaciones me permite realizar?) -->
+
+```{r}
+
+```
+
+## Conjuntos de datos a usar en el análisis
+
+<!-- Descripción de cada conjunto de datos (¿qué variables contiene?¿cuál es la unidad de observación?¿quién recoge la información contenida allí?) y su aporte al trabajo (¿qué pregunta me permite responder?). -->
+
+```{r}
+
+```
+
+
+## Limpieza de datos
+
+<!-- OPCIONAL - Descripción de los pasos que se necesitaron para obtener la data en un formato ordenado (¿qué principio de datos ordenados no se cumplía?¿cómo se solucionó?) -->
+
+# Resultados
+
+<!-- Se usan bloques de código para obtener respuestas a las preguntas planteadas -->
+
+<!-- Antes de cada bloque explicar en lenguaje no técnico qué hace el bloque de código (¿qué operación estoy realizando?¿para qué quiero obtener esto?) -->
+
+<!-- Si mi bloque tiene como resultado una tabla o gráfico debo explicar brevemente el resultado. Si mi bloque tiene como resultado la creación de un objeto en el environment, no es necesario explicar el resultado. -->
+
+# Conclusiones
+
+<!-- Las respuestas obtenidas de las preguntas planteadas en la introducción. -->
+
+

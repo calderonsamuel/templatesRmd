@@ -19,26 +19,50 @@ knitr::opts_chunk$set(
 
 # Preguntas a responder
 
+1. ...
+2. ...
+3. ...
 
 
-# Paquetes a usar en el análisis
+# Paquetes usados
 
 ```{r}
 
 ```
 
-# Conjuntos de datos a usar en el análisis
+# Datos usados
+
+```{r}
+
+```
+
+# Respuestas
+
+## 1 
+
+<!-- Ingresar texto -->
+
+```{r}
+
+```
+
+## 2 
+
+<!-- Ingresar texto -->
+
+```{r}
+
+```
+
+## 3 
+
+<!-- Ingresar texto -->
+
+```{r}
+
+```
 
 
 
-# Metodología
-
-
-
-# Resultados
-
-
-
-# Conclusiones
 
 

@@ -1,4 +1,4 @@
-name: Reporte simple
+name: Reporte detallado
 description: >
    Plantilla de HTML output, usa kable para df_print,
    carga el tidyverse y no imprime warnings ni messages.
