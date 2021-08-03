@@ -1,0 +1,32 @@
+---
+title: "Ejemplo de archivo R Markdown"
+author: "Tu nombre"
+date: "La fecha de hoy"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Este es un documento R Markdown. Markdown es una sintaxis de formato sencillo para escribir documentos en HTML, PDF y MS Word. Para mayores detalles sobre el uso de R Markdown revisa <http://rmarkdown.rstudio.com>.
+
+Cuando haces click en el botón **Knit** se generará un documento que incluye tanto el contenido como el resultado (output) de cualquier bloque de código (chunk) en el documento. Puedes insertar un bloque de código de R de esta manera:
+
+```{r cars}
+summary(cars)
+```
+
+## Incluir gráficos
+
+Además, puedes incluir gráficos. Por ejemplo:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Fíjate que el parámetro `echo = FALSE` fue añadido al bloque de código para prevenir que se imprima el código de R que generó el gráfico.
