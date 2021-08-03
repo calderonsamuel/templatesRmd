@@ -3,7 +3,6 @@ title: "Ejemplo de archivo R Markdown"
 author: "Tu nombre"
 date: "La fecha de hoy"
 output:
-  word_document: default
   html_document: default
 ---
 
