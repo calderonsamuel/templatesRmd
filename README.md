@@ -4,18 +4,19 @@
 # templatesRmd
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
-The goal of templatesRmd is to …
+The goal of templatesRmd is to have easy to use templates for everyday
+work with R Markdown files.
 
 ## Installation
 
-You can install the released version of templatesRmd from
-[CRAN](https://CRAN.R-project.org) with:
+You can install the released version of templatesRmd from the
+[calderonsamuel r-universe](https://calderonsamuel.r-universe.dev/)
+with:
 
 ``` r
-install.packages("templatesRmd")
+install.packages("templatesRmd", repos = 'https://calderonsamuel.r-universe.dev')
 ```
 
 Or the development version with:
